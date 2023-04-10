@@ -7,7 +7,7 @@ const Navbar = () => {
             <div>
                 <Link className='text-3xl font-bold' to='/'>JobFinder</Link>
             </div>
-            <div className='text-xl space-x-12'>
+            <div className='text-xl space-x-12 text-[#474747]'>
                 <Link to='/'>Home</Link>
                 <Link to='/statistics'>Statistics</Link>
                 <Link to='/applied-jobs'>Applied jobs</Link>

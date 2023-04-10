@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "categoryLogo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTxvQc6egjU7al8qImDm0WsJdIJah5SCGBdFU95C7hWFeVnravyc1JKsWFL0ftqaVYzReOaAWHZHpYd6Vuy8uIYf3f9nQ=w1920-h932",
+      "categoryName": "Account & Finance",
+      "jobsAvailable": "300"
+    },
+    {
+      "id": "02",
+      "categoryLogo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOSa7amn1ZHdpqwSRwPXLYZvh-fa26lk7mrP7LmbbI7bvCUYePX2fI97qklZqfku_YuXY2lLVMsqUL-J8F6bqYB1dadZBw=w1920-h932",
+      "categoryName": "Creative Design",
+      "jobsAvailable": "100+"
+    },
+    {
+      "id": "03",
+      "categoryLogo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORFxVH0CKKO4wzKYrR7IqP1RouEpY-mmMlWU6zaFMH45tU_GFNstpCLKdc65-uHYawhVeW_DF5AaGmz2-P8o2y-l6YYVg=w1920-h932",
+      "categoryName": "Marketing & Sales",
+      "jobsAvailable": "150"
+    },
+    {
+      "id": "04",
+      "categoryLogo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQSIDCpuyX--f0Y3YfEuKxQScXuHQGax5bon2f3OpIQbGuctkvzd_RMkQpsraSVDf1GzlD1I10OtobTqunlQiFIF6xDzA=w1920-h527",
+      "categoryName": "Engineering Job",
+      "jobsAvailable": "224"
+    }
+  ]

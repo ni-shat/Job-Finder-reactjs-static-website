@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../Header/Header';
 import JobCategories from '../JobCategories/JobCategories';
+import FeaturedJobs from '../FeaturedJobs/FeaturedJobs';
 
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
             <Header></Header>
          
             <JobCategories></JobCategories>
+            <FeaturedJobs></FeaturedJobs>
       
         </div>
     );

@@ -3,11 +3,11 @@ import React from 'react';
 const JobCategory = ({ category }) => {
 
     const { categoryLogo, categoryName, jobsAvailable } = category;
-    console.log(categoryLogo)
+    // console.log(categoryLogo)
 
     return (
-        <div className='rounded-lg bg-[#F9FAFF] w-1/4 p-[39px] space-y-2 mb-32'>
-            <div className='p-4  w-fit mb-8 rounded-md bg-gradient-to-r from-[#EEEFFF]/50 from-0% to-[#9873ff]/10 to-100%'>
+        <div className='rounded-lg bg-[#F9FAFF] w-1/4 p-[39px] space-y-2 mb-[130px]'>
+            <div className='p-4 w-fit mb-8 rounded-md bg-gradient-to-r from-[#EEEFFF]/50 from-0% to-[#9873ff]/10 to-100%'>
                 <img src={categoryLogo} alt="" />
             </div>
 

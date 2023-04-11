@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+    "logo": "https://i.ibb.co/W667QMq/google-1-1-1.png",
     "jobTitle": "CPU Architecture and Performance Engineer",
     "companyName": "Google",
     "jobType": "Onsite",
@@ -15,7 +15,7 @@
       "Project, analyze, and debug pre-silicon and post-silicon application performance.",
       "Work with CPU architect to determine CPU subsystem architecture specifications."
     ],
-    "educationalRequirements": [
+    "requirements": [
       "Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent practical experience.",
       "Experience in modern, high-performance CPU/ML architecture and micro-architecture.",
       "Experience in performance modeling, performance analysis, and workload characterization.",
@@ -28,10 +28,10 @@
       "location": "Mountain View, CA 94043 United States",
       "Phone": "1-650-253-0000"
     }
-  }, 
+  },
   {
     "id": "2",
-    "logo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOSMwZ-YZhWj7aNutiYy6vZfODiQwAU7FJHHm2VQv33HKmzZ410eVTAiMm7FhEwvRJVGtgKJy4OhwwCRfHFKGEDcZ_mvog=w1920-h932",
+    "logo": "https://i.ibb.co/XY1cK0N/netflix-4-1.png",
     "jobTitle": "Executive Assistant - Finance Core",
     "companyName": "Netflix",
     "jobType": "Remote",
@@ -42,14 +42,14 @@
     "jobResponsibility": [
       "Proactive management of calendar, travel, and expenses",
       "Scheduling complex and high-visibility meetings and calls, internally & externally",
-      "Coordinate travel arrangements and process expense reports",    
+      "Coordinate travel arrangements and process expense reports",
       "Creating presentations and documents using Google Suite",
       "The ability to assist with team projects and events as needed",
       "Coordinating large team offsite events & activities",
       "Maintaining professionalism in dealing with senior executives",
       "Supporting onboarding of new team members (eg logistics, etc)"
     ],
-    "educationalRequirements": [
+    "requirements": [
       "Strong writing and editing skills",
       "Experience supporting multiple leaders in a Finance org is highly preferred",
       "High attention to detail",
@@ -85,7 +85,7 @@
       "Collaborate with the internal team to understand customer demand and develop highly responsive applications",
       "Understand market demands to conceptualize new product features from the ground up"
     ],
-    "educationalRequirements": [
+    "requirements": [
       "Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)",
       "Working knowledge of HTML, CSS, and JavaScript development and constraints",
       "Solid understanding of performance marketing, conversion, and online customer acquisition",
@@ -103,45 +103,7 @@
   },
   {
     "id": "4",
-    "logo": "https://media.licdn.com/dms/image/C4D0BAQEFwMUolpORww/company-logo_100_100/0/1519920090100?e=2147483647&v=beta&t=hcPMaQjkgCn7shIsDUbdWx1xJj8a9M1pkvz2EZJDP-Q",
-    "jobTitle": "Wordpress Developer",
-    "companyName": "Strativ AB",
-    "jobType": "Onsite",
-    "fullOrPartTime": "Full-time",
-    "location": "Dhaka, Bangladesh",
-    "salary": "55000-80000BDT",
-    "jobDescription": "We are looking for a passionate SEO analyst to join our outstanding marketing team. Analyzing and spotting gaps in website content, optimizing pages for upgraded search results, creating backlinks, and monitoring content development will be the main responsibilities of the SEO analyst. You should be competent in identifying marketing possibilities and strategies to boost website traffic.",
-    "jobResponsibility": [
-      "Convert designs from Figma into pixel-perfect responsive web pages.",
-      "Develop custom Gutenberg blocks using Carbon fields or ACF.",
-      "Maintain sites built with Elementor and Gutenberg.",
-      "Work closely with designers on implementing designs into code.",
-      "Measure and optimise overall web page performances.",
-      "Work closely with project managers to ensure projects are delivered in a timely fashion.",
-      "Provide timely and accurate estimates for project deliverables.",
-      "Hands-on troubleshooting, debugging and fixing of issues during development and post-release for customer support."
-    ],
-    "educationalRequirements": [
-      "A sophisticated understanding of HTML semantics and ARIA roles, and knowing their correct application.",
-      "Proficient in writing maintainable CSS / SCSS with a strong understanding of Flexbox & experience working with responsive web design CSS frameworks, such as Bootstrap / Semantic UI.",
-      "Expert level knowledge of Vanilla JavaScript, ES6, jQuery and at least one popular library such as React or Vue.",
-      "Familiar with build tools such as Parcel, WebPack and Gulp.",
-      "In-depth knowledge of WordPress custom theme development, template hierarchies, hooks and filter.",
-      "Experience with implementing blocks using Gutenberg in WordPress.",
-      "Solid experience in PHP as a programming language.",
-      "Excellent analytical skills",
-      "Good understanding of a relational database like MySQL/MariaDB."
-    ],
-    "Experiences": "3+ years of professional web development experience.",
-    "contactInfo": {
-      "email": "mail@strativ.se",
-      "location": "Mirpur DOHS Dhaka-1216, Bangladesh",
-      "Phone": "+46 079-100 50 01"
-    }
-  },
-  {
-    "id": "5",
-    "logo": "https://s3-ap-southeast-1.amazonaws.com/newdayb1/positions/1671830743_9303751.jpg",
+    "logo": "https://i.ibb.co/QD8cjv8/uG3.jpg",
     "jobTitle": "DevOps Engineer",
     "companyName": "ultraGenius Tech Pvt Ltd",
     "jobType": "Remote",
@@ -153,7 +115,7 @@
       "As part of the team, you’ll help architect, build, and implement redundant, resilient, scalable, self-sustaining, and self-healing cloud infrastructures such as AWS. We utilize a variety of automation tools (Chef, Terraform, Packer) along with cloud vendor-specific tools (CloudFormation, OpsWorks, Beanstalk).",
       "Besides client-related project work, you will be participating in internal demo/idea generation/blog posts in order to bring new initiatives and new tools to be implemented with our clients."
     ],
-    "educationalRequirements": [
+    "requirements": [
       "Bachelor Degree",
       "Experience with the full software development lifecycle and delivery using Agile practices.",
       "Hands-on experience with code merging and promotion and building and managing CI/CD workflows and tools.",
@@ -171,8 +133,45 @@
     }
   },
   {
+    "id": "5",
+    "logo": "https://i.ibb.co/y6RqFQD/h-intern.jpg",
+    "jobTitle": "HR Intern",
+    "companyName": "Augmedix",
+    "jobType": "Onsite",
+    "fullOrPartTime": "Part-time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "6000-8000BDT",
+    "jobDescription": "Are you passionate about finding the best talent? Do you enjoy working in a team towards challenging goals in a very rewarding industry? This role may be a perfect role for you! Here’s your chance to think beyond the ordinary! We are searching for an Intern to join our Human Resources Department who will closely work with in our recruitment team to create a candidate pool through employer branding, campus activation, networking etc. various challenging tasks. We are so excited to bring in an intern that wants to build out a fast paced, high growth team. If you are a career coach, talent matchmaker and love hustle of a start-up, we want to hear from you! <br/> Duration: 3 Months. <br/> Time: 3:00 PM to 11:00 PM (Monday to Friday)",
+    "jobResponsibility": [
+      "Assisting in day to day recruitment activities.",
+      "Updating and maintaining applicant database.",
+      "Communicating with candidates and scheduling interviews.",
+      "Conducting initial applicant screenings.",
+      "Measure and optimise overall web page performances.",
+      "Liaise with universities to create a network for campus recruitment.",
+      "Organize and run job fairs and career events",
+      "Assist in design and implementation of the overall activation strategy to do campus driving through sourcing and attracting candidates by using databases, social media etc.",
+      "Process documentation and prepare reports relating to our campus activities"
+    ],
+    "requirements": [
+      "Bachelors in Business Administration with concentration in HR or Marketing",
+      "Expert in Gsuite (Google Sheets, Google Docs, Gmail Calendar Management)",
+      "Excellent communication and people skills.",
+      "Familiarity with social media (e.g. LinkedIn, Facebook and Twitter)",
+      "Strong verbal and written communication skills.",
+      "A willingness to travel to different universities and organizations",
+      "Understanding of Confidentiality."
+    ],
+    "Experiences": "",
+    "contactInfo": {
+      "email": "info@augmedix.com",
+      "location": "17/C, Panthapath Dhaka, Dhaka 1205, BD",
+      "Phone": "(888) 669-4885"
+    }
+  },
+  {
     "id": "6",
-    "logo": "https://media.licdn.com/dms/image/C560BAQGcXzsFYVq6vg/company-logo_100_100/0/1676627208603?e=2147483647&v=beta&t=9zo7XHOmyLEpmLQO3TtCN4MtpYY1BCME4iuUX1CGoSg",
+    "logo": "https://i.ibb.co/7pNbncj/red.jpg",
     "jobTitle": "SEO Specialist",
     "companyName": "MOASBD",
     "jobType": "Onsite",
@@ -192,7 +191,7 @@
       "Drive targeted and loyal traffic to the website through effective community-building",
       "Employing user experience (UX) and conversion rate optimization methods to turn visitors into active users"
     ],
-    "educationalRequirements": [
+    "requirements": [
       "Bachelor's degree in Information Technology or related field",
       "Comprehensive knowledge of C#, Angular, and .NET Core technologies",
       "Experience with WebAPI, MS SQL Server, and GitHub is a plus",
@@ -207,7 +206,7 @@
   },
   {
     "id": "7",
-    "logo": "https://media.licdn.com/dms/image/C4D0BAQEdkpGTmIXmHA/company-logo_100_100/0/1519878262787?e=2147483647&v=beta&t=VkXMg76oS8FY8C9DtWJ8ED1WNqnzhWoRcVeRNmb4Nq4",
+    "logo": "https://i.ibb.co/5MHhP5J/green2.jpg",
     "jobTitle": "SEO Analyst",
     "companyName": "Kolpolok Limited",
     "jobType": "Remote",
@@ -222,7 +221,7 @@
       "Plan and execute all digital marketing, including SEO/SEM, marketing database, email, social media and display advertising campaigns.",
       "Measure and report performances of all digital marketing campaigns, and assess against goals (ROI and KPIs)."
     ],
-    "educationalRequirements": [
+    "requirements": [
       "Bachelor Degree",
       "Basic knowledge of HTML5 and CSS3",
       "Work experience as an SEO Analyst or similar digital marketing role",
@@ -237,6 +236,44 @@
       "email": "info@kolpolok.com",
       "location": "Dhaka - 1207, Bangladesh",
       "Phone": "+880 2-58153018"
+    }
+  },
+  {
+    "id": "8",
+    "logo": "https://i.ibb.co/YBnvmvs/av2-mm.jpg",
+    "jobTitle": "Wordpress Developer",
+    "companyName": "Strativ AB",
+    "jobType": "Onsite",
+    "fullOrPartTime": "Full-time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "55000-80000BDT",
+    "jobDescription": "We are looking for a passionate SEO analyst to join our outstanding marketing team. Analyzing and spotting gaps in website content, optimizing pages for upgraded search results, creating backlinks, and monitoring content development will be the main responsibilities of the SEO analyst. You should be competent in identifying marketing possibilities and strategies to boost website traffic.",
+    "jobResponsibility": [
+      "Convert designs from Figma into pixel-perfect responsive web pages.",
+      "Develop custom Gutenberg blocks using Carbon fields or ACF.",
+      "Maintain sites built with Elementor and Gutenberg.",
+      "Work closely with designers on implementing designs into code.",
+      "Measure and optimise overall web page performances.",
+      "Work closely with project managers to ensure projects are delivered in a timely fashion.",
+      "Provide timely and accurate estimates for project deliverables.",
+      "Hands-on troubleshooting, debugging and fixing of issues during development and post-release for customer support."
+    ],
+    "requirements": [
+      "A sophisticated understanding of HTML semantics and ARIA roles, and knowing their correct application.",
+      "Proficient in writing maintainable CSS / SCSS with a strong understanding of Flexbox & experience working with responsive web design CSS frameworks, such as Bootstrap / Semantic UI.",
+      "Expert level knowledge of Vanilla JavaScript, ES6, jQuery and at least one popular library such as React or Vue.",
+      "Familiar with build tools such as Parcel, WebPack and Gulp.",
+      "In-depth knowledge of WordPress custom theme development, template hierarchies, hooks and filter.",
+      "Experience with implementing blocks using Gutenberg in WordPress.",
+      "Solid experience in PHP as a programming language.",
+      "Excellent analytical skills",
+      "Good understanding of a relational database like MySQL/MariaDB."
+    ],
+    "Experiences": "3+ years of professional web development experience.",
+    "contactInfo": {
+      "email": "mail@strativ.se",
+      "location": "Mirpur DOHS Dhaka-1216, Bangladesh",
+      "Phone": "+46 079-100 50 01"
     }
   }
 ]

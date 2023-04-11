@@ -6,8 +6,8 @@ const Header = () => {
     return (
         <div className='bg-[#F9FAFF]'>
             <div className='flex justify-between w-[65%] mx-auto'>
-                <div className='leading-8 mr-8 w-2/4 flex flex-col gap-10 justify-center'>
-                    <h1 className='text-7xl font-bold w-[85%]'>One Step Closer To Your <span className='text-[#7E90FE]'>Dream Job</span></h1>
+                <div className=' mr-8 w-2/4 flex flex-col gap-10 justify-center'>
+                    <h1 className='text-7xl font-bold w-[85%] leading-[75px]'>One Step Closer To Your <span className='text-[#7E90FE]'>Dream Job</span></h1>
                     <p className='w-[95%] text-xl leading-8 text-[#474747]'>
                         Explore thousands of job opportunities with all the information you need. Its your future. Come find it. Manage all your job application from start to finish.
                     </p>

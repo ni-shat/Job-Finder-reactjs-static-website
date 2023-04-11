@@ -4,15 +4,20 @@ import JobCategory from '../JobCategory/JobCategory';
 const JobCategories = () => {
 
     const [jobsCategory, setJobsCategory] = useState([]);
-    console.log("NIshat");
+    // console.log("NIshat");
 
     useEffect(() => {
         fetch('jobsCategories.json')
             .then(res => res.json())
             .then(data => setJobsCategory(data))
     }, []);
+    useEffect(() => {
+        fetch('https://openapi.programming-hero.com/api/ai/tool/01')
+            .then(res => res.json())
+            .then(data => console.log(data))
+    }, []);
 
-    console.log(jobsCategory);
+    // console.log(jobsCategory);
 
     return (
         <div className='mt-32 w-[65%] mx-auto'>

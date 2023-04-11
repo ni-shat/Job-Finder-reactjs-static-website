@@ -1,77 +1,242 @@
 [
-    {
-      "id": "",
-      "logo": "http://placehold.it/32x32",
-      "jobTitle": "",
-      "companyName": "Jillian Ochoa",
-      "jobType": "http://placehold.it/32x32",
-      "fullOrPartTime": "",
-      "location": "march 14(16 days ago))",
-      "salary": "female",
-      "jobDescription": "min read",
-      "jobResponsibility": "",
-      "educationalRequirements": "",
-      "Experiences": "",
-      "contactInfo": ""
-    },
-    {
-      "id": "",
-      "logo": "http://placehold.it/32x32",
-      "jobTitle": "",
-      "companyName": "Monica Walsh",
-      "jobType": "http://placehold.it/32x32",
-      "fullOrPartTime": "",
-      "location": "march 14(16 days ago))",
-      "salary": "female",
-      "jobDescription": "min read",
-      "jobResponsibility": "",
-      "educationalRequirements": "",
-      "Experiences": "",
-      "contactInfo": ""
-    },
-    {
-      "id": "",
-      "logo": "http://placehold.it/32x32",
-      "jobTitle": "",
-      "companyName": "Belinda Todd",
-      "jobType": "http://placehold.it/32x32",
-      "fullOrPartTime": "",
-      "location": "march 14(16 days ago))",
-      "salary": "female",
-      "jobDescription": "min read",
-      "jobResponsibility": "",
-      "educationalRequirements": "",
-      "Experiences": "",
-      "contactInfo": ""
-    },
-    {
-      "id": "",
-      "logo": "http://placehold.it/32x32",
-      "jobTitle": "",
-      "companyName": "Burt Wilkins",
-      "jobType": "http://placehold.it/32x32",
-      "fullOrPartTime": "",
-      "location": "february 10(2 months ago))",
-      "salary": "male",
-      "jobDescription": "min read",
-      "jobResponsibility": "",
-      "educationalRequirements": "",
-      "Experiences": "",
-      "contactInfo": ""
-    },
-    {
-      "id": "",
-      "logo": "http://placehold.it/32x32",
-      "jobTitle": "",
-      "companyName": "Rhea Gonzales",
-      "jobType": "http://placehold.it/32x32",
-      "fullOrPartTime": "",
-      "location": "march 14(16 days ago))",
-      "salary": "female",
-      "jobDescription": "min read",
-      "jobResponsibility": "",
-      "educationalRequirements": "",
-      "Experiences": "",
-      "contactInfo": ""
+  {
+    "id": "1",
+    "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+    "jobTitle": "CPU Architecture and Performance Engineer",
+    "companyName": "Google",
+    "jobType": "Onsite",
+    "fullOrPartTime": "Full-time",
+    "location": "Mountain View, CA, USA",
+    "salary": " $105,000-$152,000",
+    "jobDescription": "As a CPU Architecture and Performance Engineer, you'll improve processor instruction set architecture, develop innovative microarchitecture features, and help deliver Google’s advanced hardware products. You’ll collaborate with system performance and software teams to analyze application and benchmark performance and to project their performance at various design phases. You’ll be guided by a Senior CPU Architect and work with engineers in power, thermal, security, physical design, and other subsystem teams to determine the CPU subsystem configuration and features, and to support the integration of CPU subsystem.",
+    "jobResponsibility": [
+      "Evaluate ARM’s architecture features from both architecture and performance angles.",
+      "Develop performance model for performance analysis and micro-architecture study.",
+      "Project, analyze, and debug pre-silicon and post-silicon application performance.",
+      "Work with CPU architect to determine CPU subsystem architecture specifications."
+    ],
+    "educationalRequirements": [
+      "Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent practical experience.",
+      "Experience in modern, high-performance CPU/ML architecture and micro-architecture.",
+      "Experience in performance modeling, performance analysis, and workload characterization.",
+      "Experience with a general purpose programming language (e.g., C/C++, Python).",
+      "Experience in integrating ARM cores into ASICs at architectural and RTL levels."
+    ],
+    "Experiences": "",
+    "contactInfo": {
+      "email": "",
+      "location": "Mountain View, CA 94043 United States",
+      "Phone": "1-650-253-0000"
     }
-  ]
+  }, 
+  {
+    "id": "2",
+    "logo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOSMwZ-YZhWj7aNutiYy6vZfODiQwAU7FJHHm2VQv33HKmzZ410eVTAiMm7FhEwvRJVGtgKJy4OhwwCRfHFKGEDcZ_mvog=w1920-h932",
+    "jobTitle": "Executive Assistant - Finance Core",
+    "companyName": "Netflix",
+    "jobType": "Remote",
+    "fullOrPartTime": "Full-time",
+    "location": "Los Angeles, California",
+    "salary": "$55,000 - $240,000",
+    "jobDescription": "Netflix is seeking an Executive Assistant (EA) to support the company’s Content Finance Controller. This position plays a very important role in supporting the overall Controllership organization, partnering closely with the organization’s HR partners, to identify issues and solutions affecting both the morale and cultural health of the organization.  This role aids in fostering an inclusive environment through accelerating operational deliverables, while applying a humanistic people first mindset and building cohesion across the team.  The Content Controller’s EA plays an important part in driving Content Finance Controllership leadership (i.e., CFC’s direct staff) by managing agendas, holding team members accountable to action items, coordinating onsites/offsites and establishing working relationships inside and outside of the group.",
+    "jobResponsibility": [
+      "Proactive management of calendar, travel, and expenses",
+      "Scheduling complex and high-visibility meetings and calls, internally & externally",
+      "Coordinate travel arrangements and process expense reports",    
+      "Creating presentations and documents using Google Suite",
+      "The ability to assist with team projects and events as needed",
+      "Coordinating large team offsite events & activities",
+      "Maintaining professionalism in dealing with senior executives",
+      "Supporting onboarding of new team members (eg logistics, etc)"
+    ],
+    "educationalRequirements": [
+      "Strong writing and editing skills",
+      "Experience supporting multiple leaders in a Finance org is highly preferred",
+      "High attention to detail",
+      "Responsive and able to work flexibly across multiple time zones",
+      "Able to stay calm under pressure and work on short deadlines",
+      "Independent worker, with strong judgment and ability to make decisions quickly",
+      "Discreet with the ability to maintain confidential information",
+      "Demonstrated ability to design and improve processes",
+      "High level of integrity and discretion"
+    ],
+    "Experiences": "7+ years of experience managing multiple executive calendars.",
+    "contactInfo": {
+      "email": "info@partner.netflix.com",
+      "location": "Los Angeles, California",
+      "Phone": ""
+    }
+  },
+  {
+    "id": "3",
+    "logo": "https://media.licdn.com/dms/image/C4D0BAQFxUdcG-60IrQ/company-logo_100_100/0/1678337758128?e=2147483647&v=beta&t=ISlCe7Hx1g0RaWJbKyfev-DuJmbfU7jSHvuMsLSolCU",
+    "jobTitle": "Full-Stack Developer",
+    "companyName": "Turing",
+    "jobType": "Remote",
+    "fullOrPartTime": "Full Time",
+    "location": "Munshiganj, Bangladesh",
+    "salary": "100K-130K",
+    "jobDescription": "A well-established multinational company that has single-handedly transformed the tech industry with their next-gen products and services, is looking for a Full-Stack Developer. The developer will be responsible for designing, building, and maintaining APIs, user-facing experiences, services, and systems. Customers will be able to work and casually browse across IT data centers and the cloud thanks to the NYSE-listed company's cutting-edge hardware and software services. This is a rare opportunity for developers who are eager to work with a team of industry professionals in an MNC.",
+    "jobResponsibility": [
+      "Design user-facing features to boost platform engagement",
+      "Manage the database administration and hosting responsibilities",
+      "Troubleshoot, debug, and upgrade existing software systems to improve platform efficiency",
+      "Design and implement efficient APIs",
+      "Collaborate with the internal team to understand customer demand and develop highly responsive applications",
+      "Understand market demands to conceptualize new product features from the ground up"
+    ],
+    "educationalRequirements": [
+      "Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)",
+      "Working knowledge of HTML, CSS, and JavaScript development and constraints",
+      "Solid understanding of performance marketing, conversion, and online customer acquisition",
+      "Up-to-date with the latest trends and best practices in SEO and SEM",
+      "In-depth experience with website analytics tools (e.g, Google Analytics, NetInsight, Omniture, WebTrends)"
+    ],
+    "Experiences": [
+      "3 to 5 years in this field"
+    ],
+    "contactInfo": {
+      "email": "support@turing.com",
+      "location": "Palo Alto, California, US",
+      "Phone": ""
+    }
+  },
+  {
+    "id": "4",
+    "logo": "https://media.licdn.com/dms/image/C4D0BAQEFwMUolpORww/company-logo_100_100/0/1519920090100?e=2147483647&v=beta&t=hcPMaQjkgCn7shIsDUbdWx1xJj8a9M1pkvz2EZJDP-Q",
+    "jobTitle": "Wordpress Developer",
+    "companyName": "Strativ AB",
+    "jobType": "Onsite",
+    "fullOrPartTime": "Full-time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "55000-80000BDT",
+    "jobDescription": "We are looking for a passionate SEO analyst to join our outstanding marketing team. Analyzing and spotting gaps in website content, optimizing pages for upgraded search results, creating backlinks, and monitoring content development will be the main responsibilities of the SEO analyst. You should be competent in identifying marketing possibilities and strategies to boost website traffic.",
+    "jobResponsibility": [
+      "Convert designs from Figma into pixel-perfect responsive web pages.",
+      "Develop custom Gutenberg blocks using Carbon fields or ACF.",
+      "Maintain sites built with Elementor and Gutenberg.",
+      "Work closely with designers on implementing designs into code.",
+      "Measure and optimise overall web page performances.",
+      "Work closely with project managers to ensure projects are delivered in a timely fashion.",
+      "Provide timely and accurate estimates for project deliverables.",
+      "Hands-on troubleshooting, debugging and fixing of issues during development and post-release for customer support."
+    ],
+    "educationalRequirements": [
+      "A sophisticated understanding of HTML semantics and ARIA roles, and knowing their correct application.",
+      "Proficient in writing maintainable CSS / SCSS with a strong understanding of Flexbox & experience working with responsive web design CSS frameworks, such as Bootstrap / Semantic UI.",
+      "Expert level knowledge of Vanilla JavaScript, ES6, jQuery and at least one popular library such as React or Vue.",
+      "Familiar with build tools such as Parcel, WebPack and Gulp.",
+      "In-depth knowledge of WordPress custom theme development, template hierarchies, hooks and filter.",
+      "Experience with implementing blocks using Gutenberg in WordPress.",
+      "Solid experience in PHP as a programming language.",
+      "Excellent analytical skills",
+      "Good understanding of a relational database like MySQL/MariaDB."
+    ],
+    "Experiences": "3+ years of professional web development experience.",
+    "contactInfo": {
+      "email": "mail@strativ.se",
+      "location": "Mirpur DOHS Dhaka-1216, Bangladesh",
+      "Phone": "+46 079-100 50 01"
+    }
+  },
+  {
+    "id": "5",
+    "logo": "https://s3-ap-southeast-1.amazonaws.com/newdayb1/positions/1671830743_9303751.jpg",
+    "jobTitle": "DevOps Engineer",
+    "companyName": "ultraGenius Tech Pvt Ltd",
+    "jobType": "Remote",
+    "fullOrPartTime": "Full-time",
+    "location": "Mumbai, Maharashtra",
+    "salary": "100K-150K",
+    "jobDescription": "You are comfortable automating and maintaining cloud infrastructures. You are passionate about learning tools and services, with superb troubleshooting skills, enthusiasm for automating everything, and a sense of ownership.",
+    "jobResponsibility": [
+      "As part of the team, you’ll help architect, build, and implement redundant, resilient, scalable, self-sustaining, and self-healing cloud infrastructures such as AWS. We utilize a variety of automation tools (Chef, Terraform, Packer) along with cloud vendor-specific tools (CloudFormation, OpsWorks, Beanstalk).",
+      "Besides client-related project work, you will be participating in internal demo/idea generation/blog posts in order to bring new initiatives and new tools to be implemented with our clients."
+    ],
+    "educationalRequirements": [
+      "Bachelor Degree",
+      "Experience with the full software development lifecycle and delivery using Agile practices.",
+      "Hands-on experience with code merging and promotion and building and managing CI/CD workflows and tools.",
+      "Knowledge of IP networking, VPNs, DNS, load balancing, and firewall.",
+      "Understanding of cloud-native security requirements.",
+      "All things AWS, AWS-CLI, and AWS SDKs.",
+      "Scripting (Bash, Python, Ruby, Go, or Javascript)",
+      "Containers (Docker or Docker-Compose)"
+    ],
+    "Experiences": "3 to 5 years",
+    "contactInfo": {
+      "email": "support@ultragenius.club",
+      "location": "Mumbai, Maharashtra",
+      "Phone": "+1 (909) 345-9714"
+    }
+  },
+  {
+    "id": "6",
+    "logo": "https://media.licdn.com/dms/image/C560BAQGcXzsFYVq6vg/company-logo_100_100/0/1676627208603?e=2147483647&v=beta&t=9zo7XHOmyLEpmLQO3TtCN4MtpYY1BCME4iuUX1CGoSg",
+    "jobTitle": "SEO Specialist",
+    "companyName": "MOASBD",
+    "jobType": "Onsite",
+    "fullOrPartTime": "Full-time",
+    "location": "Mymensingh, Bangladesh",
+    "salary": "200000-220000BDT",
+    "jobDescription": "We are hiring an SEO Specialist to enable our users to be best able to find our site and our value-add offerings. The ideal candidate will analyze, review, and implement changes to websites so they are optimized for search engines. This candidate will be able to implement actionable strategies that will improve site visibility.",
+    "jobResponsibility": [
+      "Build an SEO strategy across web entities",
+      "Create an implementation roadmap for implementing best practices to drive more engagement",
+      "Monitor search algorithms set by search engines to keep up with changes in the SEO landscape",
+      "Continually check search terms, rankings and analytics to monitor the performance of websites and make recommendations for improvement",
+      "Optimizing copy and landing pages for search engine optimization",
+      "Performing ongoing keyword research including discovery and expansion of keyword opportunities",
+      "Researching and implementing content recommendations for organic SEO success",
+      "Use social media to distribute content and encourage external sites to link back to the site of the organization",
+      "Drive targeted and loyal traffic to the website through effective community-building",
+      "Employing user experience (UX) and conversion rate optimization methods to turn visitors into active users"
+    ],
+    "educationalRequirements": [
+      "Bachelor's degree in Information Technology or related field",
+      "Comprehensive knowledge of C#, Angular, and .NET Core technologies",
+      "Experience with WebAPI, MS SQL Server, and GitHub is a plus",
+      "Great command of written and verbal English"
+    ],
+    "Experiences": "3+ years' of technical experience",
+    "contactInfo": {
+      "email": "info@moasbd.com",
+      "location": "Mymensingh, Bangladesh",
+      "Phone": "+88 01792 22 6558"
+    }
+  },
+  {
+    "id": "7",
+    "logo": "https://media.licdn.com/dms/image/C4D0BAQEdkpGTmIXmHA/company-logo_100_100/0/1519878262787?e=2147483647&v=beta&t=VkXMg76oS8FY8C9DtWJ8ED1WNqnzhWoRcVeRNmb4Nq4",
+    "jobTitle": "SEO Analyst",
+    "companyName": "Kolpolok Limited",
+    "jobType": "Remote",
+    "fullOrPartTime": "Full-time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "100K-150K",
+    "jobDescription": "We are looking for a passionate SEO analyst to join our outstanding marketing team. Analyzing and spotting gaps in website content, optimizing pages for upgraded search results, creating backlinks, and monitoring content development will be the main responsibilities of the SEO analyst. You should be competent in identifying marketing possibilities and strategies to boost website traffic.",
+    "jobResponsibility": [
+      "Organize and carry out Website and App marketing (SEO and ASO).",
+      "Backlink build and content management.",
+      "Websites Maintaining (Health Check, Broken link, Meta Tags etc,. )",
+      "Plan and execute all digital marketing, including SEO/SEM, marketing database, email, social media and display advertising campaigns.",
+      "Measure and report performances of all digital marketing campaigns, and assess against goals (ROI and KPIs)."
+    ],
+    "educationalRequirements": [
+      "Bachelor Degree",
+      "Basic knowledge of HTML5 and CSS3",
+      "Work experience as an SEO Analyst or similar digital marketing role",
+      "Work on CMS like WordPress",
+      "Experience with various tools like Google Analytics, Keyword Planner, Ahref, App Radar, Google Search Console etc.",
+      "Familiarity with keyword research and management tools",
+      "Understanding of ranking factors and search engine optimization practices",
+      "Excellent analytical skills"
+    ],
+    "Experiences": "01 to 03 year(s)",
+    "contactInfo": {
+      "email": "info@kolpolok.com",
+      "location": "Dhaka - 1207, Bangladesh",
+      "Phone": "+880 2-58153018"
+    }
+  }
+]

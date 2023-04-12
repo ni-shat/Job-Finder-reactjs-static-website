@@ -22,11 +22,11 @@ const FeaturedJob = ({ job}) => {
                 <img className='h-full object-left object-scale-down' src={logo} alt="" />
             </div>
 
-            <h3 className='md:text-2xl text-base font-bold text-[#474747]'>{jobTitle}</h3>
+            <h3 className='md:text-xl text-base font-bold text-[#474747]'>{jobTitle}</h3>
             <p className='text-[#7d7d7d] font-semibold text-xs'>{companyName}</p>
             <div className='flex gap-8'>
-                <button className='border border-[#9873FF] text-[#9873FF] md:p-4 p-1 md:px-8 px-3 rounded md:text-xl text-xs font-semibold'>{jobType}</button>
-                <button className='border border-[#9873FF] text-[#9873FF] md:p-4 p-1 md:px-8 px-3 rounded md:text-xl text-xs font-semibold'>{fullOrPartTime}</button>
+                <button className='border border-[#9873FF] text-[#9873FF] md:p-4 p-1 md:px-8 px-3 rounded md:text-base text-xs font-semibold'>{jobType}</button>
+                <button className='border border-[#9873FF] text-[#9873FF] md:p-4 p-1 md:px-8 px-3 rounded md:text-base text-xs font-semibold'>{fullOrPartTime}</button>
             </div>
             <div className='flex text-[#7d7d7d] gap-8 font-semibold'>
                 <div className='text-xs md:text-base'><FontAwesomeIcon className='mr-2' icon={faLocationDot} />{location}</div>
@@ -35,7 +35,7 @@ const FeaturedJob = ({ job}) => {
                     </div>Salary: {salary}
                 </div>
             </div>
-            <button onClick={handleNavigate} className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100%  p-2 md:p-3 md:px-8 px-3 rounded-md md:text-xl text-xs text-white font-semibold'>View Details</button> 
+            <button onClick={handleNavigate} className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100%  p-2 md:p-3 md:px-8 px-3 rounded-md md:text-base text-xs text-white font-semibold'>View Details</button> 
 
         </div>
     );

@@ -66,7 +66,7 @@ const AppliedJobs = (props) => {
     return (
         <div>
             <div className='bg-[#F9FAFF]'>
-                <h2 className='text-4xl font-bold text-center text-[#1A1919] pt-32 pb-[176px]'>Job details</h2>
+                <h2 className='text-3xl font-bold text-center text-[#1A1919] pt-32 pb-[176px]'>Applied jobs</h2>
             </div>
             <div className='w-[65%] mx-auto mt-32 mb-10 flex justify-end gap-8'>
 

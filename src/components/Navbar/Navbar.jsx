@@ -31,7 +31,7 @@ const Navbar = () => {
                 <div>
                     <ul className={`md:flex border md:border-0 rounded-md md:rounded-none 
                     p-2 
-                    text-base md:text-xl md:space-x-12 text-[#474747] 
+                    text-base md:text-base md:space-x-12 text-[#474747] 
                     absolute md:static duration-500 ${isOpen ? '-top-56' : 'top-20'}`}>
 
                         {
@@ -45,19 +45,8 @@ const Navbar = () => {
                 </div>
             </div>
             <div>
-                <button className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100% p-2 px-3 lg:p-4 lg:px-8 rounded-md text-xs lg:text-xl text-white font-semibold'>Start Applying</button>
+                <button className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100% p-2 px-3 lg:p-4 lg:px-8 rounded-md text-xs lg:text-base text-white font-semibold'>Start Applying</button>
             </div>
-
-            {/* end */}
-            {/* <div className='hidden md:block text-xl space-x-12 text-[#474747]'>
-                <ActiveLink to='/'>Home</ActiveLink>
-                <ActiveLink to='/statistics'>Statistics</ActiveLink>
-                <ActiveLink to='/applied-jobs'>Applied jobs</ActiveLink>
-                <ActiveLink to='/blog'>Blog</ActiveLink>
-            </div>
-            <div>
-                <button className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100% p-2 px-3 lg:p-4 lg:px-8 rounded-md text-base lg:text-xl text-white font-semibold'>Start Applying</button>
-            </div> */}
 
         </nav>
     );

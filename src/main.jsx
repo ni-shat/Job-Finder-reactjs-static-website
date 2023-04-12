@@ -11,6 +11,7 @@ import JobDetails from './components/JobDetails/JobDetails';
 import idAndData from './utilities/jobDetails';
 import AppliedJobs from './components/AppliedJobs/AppliedJobs';
 import Statistics from './components/Statistics/Statistics';
+import Error from './components/Error/Error';
 
 
 
@@ -38,6 +39,10 @@ const router = createBrowserRouter([
         loader: ({ params }) => idAndData(params.jobId)
       }
     ]
+  },
+  {
+    path: '*',
+    element: <Error></Error>
   }
 ]);
 

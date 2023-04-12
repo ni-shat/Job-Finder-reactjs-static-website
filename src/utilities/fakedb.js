@@ -5,7 +5,7 @@ const addToDb = (id, job) => {
     console.log("got the id: ", id);
     console.log("got the job: ", job);
 
-    isJobsInfoAvailable(); 
+    findAddedJobsInfo(); 
 
     console.log(jobsInfo);
 
@@ -21,7 +21,7 @@ const addToDb = (id, job) => {
 }
 
 
-const isJobsInfoAvailable = () => {
+const findAddedJobsInfo = () => {
 
     const objFromDb = localStorage.getItem('jobs-info');
 
@@ -31,7 +31,7 @@ const isJobsInfoAvailable = () => {
     else{
         jobsInfo = {};
     }
-
+    return jobsInfo;
 }
 
 const isSpecificPropertyAvailable = (id) => {
@@ -41,4 +41,4 @@ const isSpecificPropertyAvailable = (id) => {
 
 
 
-export {addToDb}
+export {addToDb, findAddedJobsInfo}

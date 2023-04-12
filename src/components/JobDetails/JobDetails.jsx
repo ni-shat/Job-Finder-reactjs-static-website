@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router-dom';
 import UL from '../UL/UL';
+import { addToDb } from '../../utilities/fakedb';
 
 const JobDetails = () => {
 
@@ -39,13 +40,6 @@ const JobDetails = () => {
 
     return (
         <div>
-            {/* requirements:
-           {requirements}, 
-           <br />
-           job Responsibility:
-           {jobResponsibility}
-
-           <br /><br /><br /><br /> */}
 
             <div className='bg-[#F9FAFF]'>
                 <h2 className='text-4xl font-bold text-center text-[#1A1919] pt-32 pb-[176px]'>Job details</h2>
@@ -121,7 +115,7 @@ const JobDetails = () => {
                                 }
                             </div>
                         </div>
-                        <button className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100%  p-4 px-8 rounded-md text-xl text-white font-semibold mt-8 w-full'>Apply Now</button>
+                        <button onClick={() => addToDb(job.id, job)} className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100%  p-4 px-8 rounded-md text-xl text-white font-semibold mt-8 w-full'>Apply Now</button>
                     </div>
                 }
             </div>

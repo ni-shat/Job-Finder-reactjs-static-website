@@ -12,6 +12,8 @@ import idAndData from './utilities/jobDetails';
 import AppliedJobs from './components/AppliedJobs/AppliedJobs';
 import Statistics from './components/Statistics/Statistics';
 import Error from './components/Error/Error';
+import Remote from './components/Remote/Remote';
+import Onsite from './components/Onsite/Onsite';
 
 
 
@@ -37,6 +39,14 @@ const router = createBrowserRouter([
         path: 'job/:jobId',
         element: <JobDetails></JobDetails>,
         loader: ({ params }) => idAndData(params.jobId)
+      },
+      {
+        path: 'remote',
+        element: <Remote></Remote>
+      },
+      {
+        path: 'onsite',
+        element: <Onsite></Onsite>
       }
     ]
   },

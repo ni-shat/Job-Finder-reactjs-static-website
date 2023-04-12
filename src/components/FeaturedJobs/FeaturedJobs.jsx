@@ -11,10 +11,10 @@ const FeaturedJobs = () => {
 
 
     const getFeaturedJobs = useLoaderData();
-    // console.log(getFeaturedJobs);
+    console.log("featured jobs ",getFeaturedJobs);
 
     useEffect(() => {
-        if(seeAllState == false){
+        if(seeAllState == false && getFeaturedJobs){
             const filteredJobs = getFeaturedJobs.filter(job => (parseInt(job.id) < 5));
             console.log("FILtered jobs :", filteredJobs);
             useFeaturedJobs(filteredJobs);
@@ -36,6 +36,7 @@ const FeaturedJobs = () => {
             <p className='text-center text-[#474747] text-xl mb-10 mt-6'>Explore thousands of job opportunities with all the information you need. Its your future</p>
             <div className='grid grid-cols-2 gap-6'>
                 {
+                    featuredJobs && 
                     featuredJobs.map(job => <FeaturedJob
                         key={job.id}
                         job={job}

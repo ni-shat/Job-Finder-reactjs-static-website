@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router-dom';
 import UL from '../UL/UL';
 import { addToDb } from '../../utilities/fakedb';
+import { Toaster } from 'react-hot-toast';
 
 const JobDetails = () => {
 
@@ -14,8 +15,6 @@ const JobDetails = () => {
     const idAndData = useLoaderData();
 
     useEffect(() => {
-        // setJobs(idAndData.jobs);
-        // setId(idAndData.jobId);
 
         const jobsData = idAndData.jobs;
         const id = idAndData.jobId;
@@ -27,14 +26,9 @@ const JobDetails = () => {
             const { requirements, jobResponsibility } = job;
             setRequirements(requirements);
             setJobResponsibility(jobResponsibility);
-            // console.log(jobDescription, requirements, Experiences, jobResponsibility);
         }
 
     }, [job]);
-
-
-    // console.log(jobDescription, requirements, Experiences, jobResponsibility);
-    console.log(job)
 
 
 
@@ -115,7 +109,11 @@ const JobDetails = () => {
                                 }
                             </div>
                         </div>
-                        <button onClick={() => addToDb(job.id, job)} className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100%  p-4 px-8 rounded-md text-xl text-white font-semibold mt-8 w-full'>Apply Now</button>
+                        <div>
+                            <button onClick={() => addToDb(job.id, job)} className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100%  p-4 px-8 rounded-md text-xl text-white font-semibold mt-8 w-full'>Apply Now</button>
+                            <Toaster position="top-right" />
+                        </div>
+
                     </div>
                 }
             </div>

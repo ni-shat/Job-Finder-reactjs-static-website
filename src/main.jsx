@@ -10,6 +10,7 @@ import Layout from './components/Layout/Layout';
 import JobDetails from './components/JobDetails/JobDetails';
 import idAndData from './utilities/jobDetails';
 import AppliedJobs from './components/AppliedJobs/AppliedJobs';
+import Statistics from './components/Statistics/Statistics';
 
 
 
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
       {
         path: 'applied-jobs',
         element: <AppliedJobs></AppliedJobs>
+      },
+      {
+        path: 'statistics',
+        element: <Statistics></Statistics>
       },
       {
         path: 'job/:jobId',

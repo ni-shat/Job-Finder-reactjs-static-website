@@ -14,6 +14,7 @@ import Statistics from './components/Statistics/Statistics';
 import Error from './components/Error/Error';
 import Remote from './components/Remote/Remote';
 import Onsite from './components/Onsite/Onsite';
+import Blog from './components/Blog/Blog';
 
 
 
@@ -47,6 +48,10 @@ const router = createBrowserRouter([
       {
         path: 'onsite',
         element: <Onsite></Onsite>
+      },
+      {
+        path: 'blog',
+        element: <Blog></Blog>
       }
     ]
   },

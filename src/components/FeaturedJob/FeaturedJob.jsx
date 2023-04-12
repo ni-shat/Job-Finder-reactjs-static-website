@@ -1,29 +1,17 @@
 import React, { useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLocationDot, faDollarSign } from '@fortawesome/free-solid-svg-icons';
+import { useNavigate } from 'react-router-dom';
 
 const FeaturedJob = ({ job}) => {
 
     const { id, companyName, contactInfo, requirements, fullOrPartTime, Experiences, jobTitle, jobDescription, jobResponsibility, jobType, location, logo, salary } = job;
 
-    // const [jobRepresentingState, setJobRepresentingState] = useState(false);
-    // const [_id, setId] = useState(0);
+    const Navigate = useNavigate();
 
-    // useEffect(() => {
-
-    //     if (id > 4 && seeAllState == true) {
-    //         // setId(parseInt(id));
-    //         setJobRepresentingState(true);
-    //     }
-
-    //     else if (id > 4 && seeAllState == false) {
-    //         setJobRepresentingState(false);
-    //     }
-    //     else if(id < 5){
-    //         setJobRepresentingState(true);
-    //     }
-
-    // }, [])
+    const handleNavigate = () => {
+        Navigate(`/job/${id}`);
+    };
 
 
     return (
@@ -50,7 +38,7 @@ const FeaturedJob = ({ job}) => {
                     </div>Salary: {salary}
                 </div>
             </div>
-            <button className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100%  p-3 px-8 rounded-md text-xl text-white font-semibold'>View Details</button>
+            <button onClick={handleNavigate} className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100%  p-3 px-8 rounded-md text-xl text-white font-semibold'>View Details</button>
         </div>
     );
 };

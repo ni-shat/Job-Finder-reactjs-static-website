@@ -45,7 +45,7 @@ const Navbar = () => {
                 </div>
             </div>
             <div>
-                <button className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100% p-2 px-3 lg:p-4 lg:px-8 rounded-md text-xs lg:text-base text-white font-semibold'>Start Applying</button>
+                <button className='bg-gradient-to-r from-[#7E90FE] from-0% to-[#9873FF] to-100% p-2 px-3 lg:p-3 lg:px-7 rounded-md text-xs lg:text-base text-white font-semibold'>Start Applying</button>
             </div>
 
         </nav>

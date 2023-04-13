@@ -1,7 +1,6 @@
 ### JOB FINDER
 
 
-
 JobFinder project involves creating a website that helps job seekers find job circulars and apply for jobs, with several features to enhance the user experience. Job circulars will be displayed in a clear, easy-to-read format, with all relevant details such as job title, company name, location, and job description included. Users will be able to apply for jobs directly from the website. This project included few features that are mentioned below:
 
 * The home page will feature a list of job categories, such as Account & Finance, Creative Design, Marketing & Sales, and Engineering Job. Users can click on a category to view available job postings in that category.

@@ -7,7 +7,6 @@ const getAppliedJobs = () => {
 
     useEffect(() => {
         const storedJobsInfo = findAddedJobsInfo();
-        // console.log(storedJobsInfo)
 
         let appliedJobsTemp = [];
 
